@@ -8,3 +8,15 @@ h1 {
     text-align: center;
     /* [disabled]background-repeat: no-repeat; */
 }
+h2 {
+    font-family: "Hey Gorgeous";
+    color: #FFFFFF;
+    font-size: xx-small;
+    text-align: center;
+}
+h3 {
+    font-family: "Hey Gorgeous";
+    color: #FFFFFF;
+    font-size: small;
+    text-align: center;
+}
