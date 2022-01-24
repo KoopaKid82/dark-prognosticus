@@ -19,14 +19,3 @@ h3 {
     color: #FFFFFF;
     font-size: small;
     text-align: center;
-}
-<style type="text/css">
-@font-face {
-    font-family: "heygorgeous";
-    src: url(webfonts/heygorgeous/heygorgeous.ttf) format("truetype");
-}
-p.customfont { 
-    font-family: "Hey Gorgeous", heygorgeous, Tahoma;
-}
-</style>
-<p class="customfont">test</p>
