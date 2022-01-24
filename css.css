@@ -20,3 +20,11 @@ h3 {
     font-size: small;
     text-align: center;
 }
+<style type="text/css">
+@font-face {
+    font-family: "heygorgeous";
+    src: url(webfonts/heygorgeous/heygorgeous.ttf) format("truetype");
+}
+p.customfont { 
+    font-family: "Hey Gorgeous", heygorgeous, Tahoma;
+}
