@@ -9,7 +9,7 @@ h1 {
     /* [disabled]background-repeat: no-repeat; */
 }
 h2 {
-    font-family: "Hey Gorgeous";webfonts/heygorgeous/heygorgeous.ttf
+    font-family: "Hey Gorgeous";
     color: #FFFFFF;
     font-size: xx-small;
     text-align: center;
@@ -19,12 +19,4 @@ h3 {
     color: #FFFFFF;
     font-size: small;
     text-align: center;
-}
-<style type="text/css">
-@font-face {
-    font-family: "heygorgeous";
-    src: url(webfonts/heygorgeous/heygorgeous.ttf) format("truetype");
-}
-p.customfont { 
-    font-family: "Hey Gorgeous", heygorgeous, Tahoma;
 }
